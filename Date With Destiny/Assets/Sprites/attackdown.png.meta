@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 5a95eba827593c94c806d5fedf3c7cb7
+timeCreated: 1474585291
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: attackdown_0
+    21300002: attackdown_2
+    21300004: attackdown_3
+    21300006: attackdown_4
+    21300008: attackdown_5
+    21300010: attackdown_6
+    21300012: attackdown_7
+    21300014: attackdown_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attackdown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 28
+        height: 22
+      alignment: 9
+      pivot: {x: 0.6601428, y: 0.46815327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attackdown_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 13
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.63451993, y: 0.49999967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attackdown_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.52950007, y: 0.60615504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attackdown_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 4
+        width: 19
+        height: 34
+      alignment: 9
+      pivot: {x: 0.51475, y: 0.6236395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attackdown_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 4
+        width: 24
+        height: 33
+      alignment: 9
+      pivot: {x: 0.41826057, y: 0.6401248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attackdown_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 6
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.30672377, y: 0.6226091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attackdown_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 14
+        width: 31
+        height: 24
+      alignment: 9
+      pivot: {x: 0.28755286, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attackdown_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 14
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.27667522, y: 0.48172262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

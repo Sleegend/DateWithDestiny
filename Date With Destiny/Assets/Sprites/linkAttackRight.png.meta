@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: b99b4675c97cd3e4287aba2218e4974e
+timeCreated: 1474604443
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: linkAttackRight_0
+    21300002: linkAttackRight_2
+    21300004: linkAttackRight_3
+    21300006: linkAttackRight_5
+    21300008: linkAttackRight_6
+    21300010: linkAttackRight_7
+    21300012: linkAttackRight_8
+    21300014: linkAttackRight_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: linkAttackRight_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 13
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.583167, y: 0.40556502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linkAttackRight_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 13
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5280141, y: 0.40241686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linkAttackRight_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 13
+        width: 33
+        height: 21
+      alignment: 9
+      pivot: {x: 0.36290047, y: 0.5633649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linkAttackRight_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 13
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.3669328, y: 0.52661306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linkAttackRight_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 11
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.40851593, y: 0.53629094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linkAttackRight_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 4
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.37580413, y: 0.6419383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linkAttackRight_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2
+        width: 17
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5626194, y: 0.6370995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: linkAttackRight_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2
+        width: 17
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5626185, y: 0.6290349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
